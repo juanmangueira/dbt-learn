@@ -1,1 +1,1 @@
-# dbt-learn
+# analytics-learn
